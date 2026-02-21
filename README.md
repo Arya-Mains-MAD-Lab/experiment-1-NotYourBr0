@@ -1,4 +1,5 @@
-# Experiment 1: Flutter Environment Setup & Basic App
+# Experiment 1:  Introduction to Flutter & Hello World
+App
 
 ## Student Information
 * **Name:** Kartik Swami
